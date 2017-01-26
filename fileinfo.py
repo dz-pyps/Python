@@ -62,3 +62,8 @@ else:
     st_size (file size, bytes), st_atime (last access time, seconds since epoch),
     st_mtime (last modification time), st_ctime (time of creation, Windows)"""
 )
+# Test
+
+
+def test():
+    print("test")
